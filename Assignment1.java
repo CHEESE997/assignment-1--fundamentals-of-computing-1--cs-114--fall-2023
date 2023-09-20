@@ -1,7 +1,5 @@
 // Import libraries here
 import java.util.Scanner;
-
-import java.util.Random;
 // Nguyen-Long Phan
 
 public class Assignment1 {
